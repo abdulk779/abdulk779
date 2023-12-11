@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @abdulk779
-- 👀 I’m interested in C++, Java, HTML(Hyper Text Markup Language) & CSS(Cascading Style Sheets)
-- 🌱 I’m currently learning Linux and Digital Image Processing
-- 💞️ I’m looking to collaborate on....
+- 👋 Hi, I’m Engr.Abdul Khaliq.
+- 🌱 Graduated in Computer Engineering from Bahria University.
+- 👀 I have skills in Frontend Development, Logo design, and UI/UX design. 
+- 🌱 I’m currently pursuing a Master's in Software Engineering from NED University.
+- 💞️ I’m looking to collaborate on...
 - 📫 How to reach me...
 
 <!---
